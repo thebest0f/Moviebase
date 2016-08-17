@@ -1,0 +1,70 @@
+﻿body {
+}
+
+/**************Master Page*/
+#MainBody {
+
+    border-style:solid;
+
+    height:100%;
+    width: 800px;
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+
+    border-top-style:none;
+    border-right:none;
+    border-left:none;
+    border-bottom:none;
+}
+#LogoBar{
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    border-bottom-style:solid;
+    height:6%;
+    text-align:center;
+}
+#IconBar{
+    border-top:none;
+    border-bottom-style:solid;
+    height:6%;
+}
+.menuBarBtn{
+    border:none;
+    background-color:transparent;
+    height:100%;
+    width:10%;
+}
+
+/*****************Public Page*/
+
+.movieInfo{
+    position:absolute;
+    left:40%;
+    top:40%;
+    height:35%;
+    width:55%;
+    background-color:blue;
+    text-align:center;
+}
+
+/*******************Full List Page*/
+
+#fullMovieList{
+    width:100%;
+    height:100%;
+    background-color:white;
+    position:relative;
+    text-align:center;
+}
+
+/******************Admin Page*/
+
+
+/******************login Page*/
+
+
+
+
+
